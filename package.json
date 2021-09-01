@@ -1,0 +1,25 @@
+{
+  "name": "boomer",
+  "version": "1.0.0",
+  "description": "Boomer",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "EReaX",
+  "license": "ISC",
+  "dependencies": {
+    "@discordjs/opus": "^0.5.3",
+    "discord.js": "^12.5.3",
+    "ffmpeg-static": "^4.4.0",
+    "images-scraper": "^6.3.0",
+    "minecraft-server-util": "^3.5.2",
+    "moment": "^2.29.1",
+    "moment-duration-format": "^2.3.2",
+    "ms": "^2.1.3",
+    "rss-parser": "^3.12.0",
+    "trsozluk": "^1.5.0",
+    "yt-search": "^2.9.0",
+    "ytdl-core": "^4.9.0"
+  }
+}
